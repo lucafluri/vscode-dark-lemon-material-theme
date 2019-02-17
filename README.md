@@ -1,7 +1,7 @@
 # Dark Lemon Theme
-VSCode Theme based on Sean Sassenrath's [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark) theme.
+VSCode Theme based on vangware's [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material) theme.
 
-![dark-lemon-example](https://github.com/lucafluri/vscode-dark-lemon-theme/blob/master/images/dark-lemon.PNG?raw=true)  
+![dark-lemon-example](https://github.com/lucafluri/vscode-dark-lemon-material-theme/blob/master/images/dark-lemon.PNG?raw=true)  
 
 ## Features
 
@@ -10,14 +10,15 @@ VSCode Theme based on Sean Sassenrath's [Super One Dark](https://marketplace.vis
 - Atom Syntax Colors
 - Yellow Cursor
 - Many Yellow Accents
+- Dark+ Material Syntac Coloring
 
 ## Installation
 
-Available for free in the vscode [Marketplace](https://marketplace.visualstudio.com/items?itemName=lucafluri.dark-lemon)
+Available for free in the vscode [Marketplace](https://marketplace.visualstudio.com/items?itemName=lucafluri.dark-lemon-material)
 
 ## Changes
 
-Click here to go to the [Changelog](https://github.com/lucafluri/vscode-dark-lemon-theme/blob/master/CHANGELOG.md)
+Click here to go to the [Changelog](https://github.com/lucafluri/vscode-dark-lemon-material-theme/blob/master/CHANGELOG.md)
 
 ## Expand this theme
 
