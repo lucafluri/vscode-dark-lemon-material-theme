@@ -10,7 +10,7 @@ VSCode Theme based on vangware's [Dark+ Material](https://marketplace.visualstud
 - Atom Syntax Colors
 - Yellow Cursor
 - Many Yellow Accents
-- Dark+ Material Syntac Coloring
+- Dark+ Material Syntax Coloring
 
 ## Installation
 
