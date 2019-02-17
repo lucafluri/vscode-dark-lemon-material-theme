@@ -1,0 +1,25 @@
+{
+    "name": "dark-lemon",
+    "displayName": "Dark Lemon Material",
+    "description": "Dark minimalistic theme with yellow accents and the Dark+ Material Syntax",
+    "icon": "images/icon.png",
+    "author": "Luca Fluri",
+    "publisher": "lucafluri",
+    "repository": "https://github.com/lucafluri/vscode-dark-lemon-material-theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [ 
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Lemon Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-lemon-material.json"
+            }
+        ]
+    }
+}
