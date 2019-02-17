@@ -23,7 +23,3 @@ Click here to go to the [Changelog](https://github.com/lucafluri/vscode-dark-lem
 ## Expand this theme
 
 Use [Yo generator](https://code.visualstudio.com/Docs/customization/themes#_adding-a-new-theme)
-
-## Thanks to
-
-Sean Sassenrath  
