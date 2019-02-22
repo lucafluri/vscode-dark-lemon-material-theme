@@ -7,11 +7,10 @@ VSCode Theme based on vangware's [Dark+ Material](https://marketplace.visualstud
 
 - Seamless one piece editor -> no borders  
 - Dark background
-- Atom Syntax Colors
 - Yellow Cursor
 - Many Yellow Accents
 - Dark+ Material Syntax Coloring
-- Yellow Debug Statusbar 
+- Yellow Debug Statusbar
 
 ## Installation
 
