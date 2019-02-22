@@ -11,6 +11,7 @@ VSCode Theme based on vangware's [Dark+ Material](https://marketplace.visualstud
 - Yellow Cursor
 - Many Yellow Accents
 - Dark+ Material Syntax Coloring
+- Yellow Debug Statusbar 
 
 ## Installation
 
